@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+body {
+    color: white;
+    background: linear-gradient(to bottom, #575757, #000000);
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 18px;
+} .ventajas {
+    color: #2eff2e;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+} .titulolista {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+} .enlaces {
+    border: 2px outset #000000;
+    background-color: #ffffff;
+    color: #000000;
+    text-decoration: none;
+} .imagenesprincipales {
+    border: 5px solid #000000;
+    border-radius: 30px;
+    width: 200px;
+} .imagenes {
+    width: 15px;
+    height: 15px;
+    vertical-align: -2px;   
+} h1 {
+    font-family: Chango, cursive;
+    color:rgb(110, 94, 255);
+    text-decoration: underline;
+    text-align: center;
+} .bloqueprincipal {
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+    background: linear-gradient(to bottom, #1c1c1c, #000000);
+    font-size: 20px;
+} .bloquesuperior {
+    width: 70%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+    background: linear-gradient(to bottom, #1c1c1c, #000000);
+} .bprimario {
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+    text-align: center;
+    background: linear-gradient(to bottom, #1c1c1c, #000000);
+} .bventajas {
+    width: 50%;
+    margin: 30px auto;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+    background: linear-gradient(to bottom, #081808, #1c5e13, #081808);
+} .bloqueprincipal2 {
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgb(0, 0, 0);
+    background: linear-gradient(to bottom, #000000, #1c1c1c);
+    text-align: center;
+    font-size: 20px;
+}
